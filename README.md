@@ -1,2 +1,2 @@
-This is Amazon-frontend-clone using html & css. 
+This is Amazon-frontend-clone using Html & Css. 
 # Amazon-frontend-clone
